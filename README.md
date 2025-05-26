@@ -33,7 +33,7 @@ Dataset = "https://github.com/SubhankarMukherjee-portfolio/Churn-Dataset-Analysi
 Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Churn-Dataset-Analysis/blob/main/Churn.pbix"
 
 ## PDF file dashboard
-PDF File =
+PDF File =  "https://github.com/SubhankarMukherjee-portfolio/Churn-Dataset-Analysis/blob/main/Churn.pdf"
 ![image](https://github.com/user-attachments/assets/e900335c-5ba1-4bf2-ab3d-6d34f56721e1)
 ![image](https://github.com/user-attachments/assets/5d799eda-1243-4298-bbd0-8004c821542f)
 ![image](https://github.com/user-attachments/assets/22f9c98d-2282-49cd-aef0-77acd14bf3bd)
