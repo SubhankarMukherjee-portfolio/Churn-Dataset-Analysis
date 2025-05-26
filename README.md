@@ -2,7 +2,7 @@
 This Power BI project analyzes telecom customer churn data to build interactive dashboards that uncover patterns in customer behavior, subscription trends, and churn drivers. It integrates demographic, account, service usage, and billing data to segment customers and identify risk factors associated with churn. Key metrics include churn rate, tenure distribution, monthly and annual charges, and support ticket volume. Visualizations include bar charts, distribution graphs, stacked columns, and heatmaps, offering detailed insights by internet service type, contract duration, payment method, and service subscriptions. The dashboards support strategic decisions in customer retention, contract optimization, and service delivery improvement by enabling users to explore churn trends and influential factors in an intuitive, data-driven format.
 
 ## Dataset used
-Dataset =
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Churn-Dataset-Analysis/blob/main/Churn-Dataset.xlsx"
 
 ## Objectives of the project
 1) To track and visualize customer churn metrics using KPIs such as churn rate, total customers at risk, average monthly and annual charges, and ticket volumes.
@@ -30,7 +30,7 @@ Dataset =
 
 
 ## Power BI file
-Power BI File =
+Power BI File = "https://github.com/SubhankarMukherjee-portfolio/Churn-Dataset-Analysis/blob/main/Churn.pbix"
 
 ## PDF file dashboard
 PDF File =
